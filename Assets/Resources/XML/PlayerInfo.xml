@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerInfo>
+    <money>500000</money>
+    <charecter>ninja</charecter>
+    <job>
+      <id>0</id>
+      <name>knight</name>
+      <price>50000</price>
+      <isBuy>true</isBuy>
+    </job>
+    <job>
+      <id>1</id>
+      <name>ninja</name>
+      <price>50000</price>
+      <isBuy>true</isBuy>
+    </job>
+    <job>
+      <id>2</id>
+      <name>wizard</name>
+      <price>100000</price>
+      <isBuy>true</isBuy>
+    </job>
+  </PlayerInfo>
+</dataroot>

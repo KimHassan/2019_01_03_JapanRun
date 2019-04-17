@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Moji>
+    <id>0</id>
+    <kanji>火</kanji>
+    <mean>불 화</mean>
+    <meanRead>ひ</meanRead>
+    <meanRead>ほ</meanRead>
+    <soundRead>か</soundRead>
+  </Moji>
+  <Moji>
+    <id>1</id>
+    <kanji>久</kanji>
+    <mean>오랠 구</mean>
+    <meanRead>ひさしい</meanRead>
+    <soundRead>きゅう</soundRead>
+    <soundRead>く</soundRead>
+  </Moji>
+  <Moji>
+    <id>2</id>
+    <kanji>人</kanji>
+    <mean>사람 인</mean>
+    <meanRead>ひと</meanRead>
+    <soundRead>じん</soundRead>
+    <soundRead>にん</soundRead>
+  </Moji>
+  <Moji>
+    <id>3</id>
+    <kanji>入</kanji>
+    <mean>들 입</mean>
+    <meanRead>いる</meanRead>
+    <meanRead>いれる</meanRead>
+    <meanRead>はいる</meanRead>
+    <soundRead>にゅう</soundRead>
+    <soundRead>じゅ</soundRead>
+  </Moji>
+  <Moji>
+    <id>4</id>
+    <kanji>大</kanji>
+    <mean>클 대</mean>
+    <meanRead>だい</meanRead>
+    <meanRead>たい</meanRead>
+    <soundRead>おお</soundRead>
+    <soundRead>おおきい</soundRead>
+    <soundRead>おおいに</soundRead>
+  </Moji>
+  <Moji>
+    <id>5</id>
+    <kanji>天</kanji>
+    <mean>하늘 천</mean>
+    <meanRead>あめ</meanRead>
+    <meanRead>あま</meanRead>
+    <soundRead>てん</soundRead>
+  </Moji>
+  <Moji>
+    <id>6</id>
+    <kanji>夫</kanji>
+    <mean>사내 부</mean>
+    <mean>남편 부</mean>
+    <meanRead>おっと</meanRead>
+    <soundRead>ふ</soundRead>
+    <soundRead>ふう</soundRead>
+  </Moji>
+  <Moji>
+    <id>7</id>
+    <kanji>太</kanji>
+    <mean>클 태</mean>
+    <meanRead>た</meanRead>
+    <meanRead>たい</meanRead>
+    <soundRead>ふとい</soundRead>
+    <soundRead>ふとる</soundRead>
+  </Moji>
+  <Moji>
+    <id>8</id>
+    <kanji>仁</kanji>
+    <mean>어질 인</mean>
+    <soundRead>じん</soundRead>
+    <soundRead>にん</soundRead>
+  </Moji>
+  <Moji>
+    <id>9</id>
+    <kanji>件</kanji>
+    <mean>물건 건</mean>
+    <mean>사건 건</mean>
+    <meanRead>くだん</meanRead>
+    <soundRead>けん</soundRead>
+  </Moji>
+  <Moji>
+    <id>10</id>
+    <kanji>個</kanji>
+    <mean>낱 개</mean>
+    <soundRead>こ</soundRead>
+    <soundRead>か</soundRead>
+  </Moji>
+  <Moji>
+    <id>11</id>
+    <kanji>保</kanji>
+    <mean>지킬 보</mean>
+    <mean>보호할 보</mean>
+    <meanRead>ほ</meanRead>
+    <soundRead>たもつ</soundRead>
+  </Moji>
+  <Moji>
+    <id>12</id>
+    <kanji>在</kanji>
+    <mean>있을 재</mean>
+    <meanRead>ある</meanRead>
+    <soundRead>ざい</soundRead>
+  </Moji>
+  <Moji>
+    <id>13</id>
+    <kanji>存</kanji>
+    <mean>있을 존</mean>
+    <soundRead>そん</soundRead>
+    <soundRead>ぞん</soundRead>
+  </Moji>
+  <Moji>
+    <id>14</id>
+    <kanji>作</kanji>
+    <mean>지을 작</mean>
+    <meanRead>つくる</meanRead>
+    <soundRead>さ</soundRead>
+    <soundRead>さく</soundRead>
+  </Moji>
+  <Moji>
+    <id>15</id>
+    <kanji>昨</kanji>
+    <mean>어제 작</mean>
+    <soundRead>さく</soundRead>
+  </Moji>
+  <Moji>
+    <id>16</id>
+    <kanji>炎</kanji>
+    <mean>더울 염</mean>
+    <mean>염증 염</mean>
+    <meanRead>ほのお</meanRead>
+    <soundRead>えん</soundRead>
+  </Moji>
+  <Moji>
+    <id>17</id>
+    <kanji>談</kanji>
+    <mean>말씀 담</mean>
+    <soundRead>だん</soundRead>
+  </Moji>
+  <Moji>
+    <id>18</id>
+    <kanji>栄</kanji>
+    <mean>성할 영</mean>
+    <mean>영화 영</mean>
+    <meanRead>さかえる</meanRead>
+    <meanRead>はえ</meanRead>
+    <meanRead>はえる</meanRead>
+    <soundRead>えい</soundRead>
+  </Moji>
+  <Moji>
+    <id>19</id>
+    <kanji>営</kanji>
+    <mean>다스릴 영</mean>
+    <meanRead>いとなむ</meanRead>
+    <soundRead>えい</soundRead>
+  </Moji>
+  <Moji>
+    <id>20</id>
+    <kanji>労</kanji>
+    <mean>수고할 로</mean>
+    <mean>일할 로</mean>
+    <meanRead>いたわる</meanRead>
+    <meanRead>ねぎらう</meanRead>
+    <soundRead>ろう</soundRead>
+  </Moji>
+  <Moji>
+    <id>21</id>
+    <kanji>水</kanji>
+    <mean>물 수</mean>
+    <meanRead>みず</meanRead>
+    <soundRead>すい</soundRead>
+  </Moji>
+  <Moji>
+    <id>22</id>
+    <kanji>氷</kanji>
+    <mean>얼음 빙</mean>
+    <meanRead>こおり</meanRead>
+    <meanRead>ひ</meanRead>
+    <soundRead>ひょう</soundRead>
+  </Moji>
+  <Moji>
+    <id>23</id>
+    <kanji>栄</kanji>
+    <mean>말씀 담</mean>
+    <meanRead>ほのお</meanRead>
+    <soundRead>だん</soundRead>
+  </Moji>
+  <Moji>
+    <id>24</id>
+    <kanji>永</kanji>
+    <mean>길 영</mean>
+    <mean>오랠 영</mean>
+    <meanRead>ながい</meanRead>
+    <soundRead>えい</soundRead>
+  </Moji>
+  <Moji>
+    <id>25</id>
+    <kanji>泳</kanji>
+    <mean>헤엄칠 영</mean>
+    <meanRead>およぐ</meanRead>
+    <soundRead>えい</soundRead>
+  </Moji>
+  <Moji>
+    <id>26</id>
+    <kanji>山</kanji>
+    <mean>산 산</mean>
+    <meanRead>やま</meanRead>
+    <soundRead>さん</soundRead>
+  </Moji>
+  <Moji>
+    <id>27</id>
+    <kanji>出</kanji>
+    <mean>나올 출</mean>
+    <mean>나갈 출</mean>
+    <meanRead>でる</meanRead>
+    <meanRead>だす</meanRead>
+    <soundRead>しゅつ</soundRead>
+    <soundRead>すい</soundRead>
+  </Moji>
+  <Moji>
+    <id>28</id>
+    <kanji>谷</kanji>
+    <mean>골짜기 곡</mean>
+    <meanRead>たに</meanRead>
+    <soundRead>こく</soundRead>
+  </Moji>
+  <Moji>
+    <id>29</id>
+    <kanji>浴</kanji>
+    <mean>목욕할 욕</mean>
+    <meanRead>あびる</meanRead>
+    <meanRead>あびせる</meanRead>
+    <soundRead>よく</soundRead>
+  </Moji>
+  <Moji>
+    <id>30</id>
+    <kanji>欲</kanji>
+    <mean>바랄 욕</mean>
+    <meanRead>ほつする</meanRead>
+    <meanRead>ほしい</meanRead>
+    <soundRead>よく</soundRead>
+  </Moji>
+  <Moji>
+    <id>31</id>
+    <kanji>容</kanji>
+    <mean>얼굴 용</mean>
+    <mean>받아들일 용</mean>
+    <mean>용서할 용</mean>
+    <meanRead>いれる</meanRead>
+    <meanRead>かたち</meanRead>
+    <meanRead>ゆるす</meanRead>
+    <soundRead>よう</soundRead>
+  </Moji>
+  <Moji>
+    <id>32</id>
+    <kanji>児</kanji>
+    <mean>아이 아</mean>
+    <meanRead>こ</meanRead>
+    <soundRead>じ</soundRead>
+    <soundRead>に</soundRead>
+  </Moji>
+  <Moji>
+    <id>33</id>
+    <kanji>光</kanji>
+    <mean>빛 광</mean>
+    <meanRead>ひかり</meanRead>
+    <meanRead>ひかる</meanRead>
+    <soundRead>こう</soundRead>
+  </Moji>
+  <Moji>
+    <id>34</id>
+    <kanji>統</kanji>
+    <mean>거느릴 통</mean>
+    <meanRead>すべる</meanRead>
+    <soundRead>とう</soundRead>
+  </Moji>
+</dataroot>
